@@ -8,6 +8,6 @@ inicio
      area <- pi * raio ^ 2
      comp <- 2 * pi * raio
      
-     escreval("A área é: ",area:5:2)
-     escreva ("O comprimento é: ",comp:5:2)
+     escreval("A Ã¡rea Ã©: ",area:5:2)
+     escreva ("O comprimento Ã©: ",comp:5:2)
 fimalgoritmo
