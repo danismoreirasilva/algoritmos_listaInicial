@@ -11,3 +11,5 @@ inicio
      escreval("A área é: ",area:5:2)
      escreva ("O comprimento é: ",comp:5:2)
 fimalgoritmo
+
+//teste
